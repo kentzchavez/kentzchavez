@@ -1,5 +1,8 @@
 ## Hi there 👋
 
+- I'm currently a Computer Science Student, taking the data science track offered by my university!
+
+- I am currently learning a lot of things, focusing on SQL, PowerBI, Data Analysis using Python, and Machine Learning.
 <!--
 **kentzchavez/kentzchavez** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
